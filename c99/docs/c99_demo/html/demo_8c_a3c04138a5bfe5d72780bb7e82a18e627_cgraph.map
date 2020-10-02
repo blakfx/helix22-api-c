@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$demo_8c.html#a9dca911456d77a232703ee481e04b0b0" title="loadHelixModule" alt="" coords="156,5,287,32"/>
+<area shape="rect" id="node3" href="$demo_8c.html#ad2a3e722c20c4dce7bc58efec2e69966" title="Connect to Helix key&#45;server (that was specified at Helix initialization time). " alt="" coords="128,56,315,83"/>
+<area shape="rect" id="node4" href="$demo_8c.html#a123f6eb63058e593820d53dba2007456" title="Perform authentication (of existing) or creation (of new) account in Helix Network. " alt="" coords="110,107,333,133"/>
+<area shape="rect" id="node8" href="$demo_8c.html#a5b3f46f40aaac0f34077fcb1cd7afd92" title="Reads bytes from a given file. " alt="" coords="150,157,293,184"/>
+<area shape="rect" id="node9" href="$demo_8c.html#a3fc4d469ec94a73ef40c5e1305db4854" title="Given some plain content, encrypt it for a given target user. " alt="" coords="151,208,291,235"/>
+<area shape="rect" id="node10" href="$demo_8c.html#aad5f0221b8cae678b344e17102ad2316" title="Writes bytes to a file. " alt="" coords="157,259,285,285"/>
+<area shape="rect" id="node11" href="$demo_8c.html#add54e4335d3b13cc14facbac9a74bc4c" title="Given some encrypted content, decrypt it. " alt="" coords="151,309,291,336"/>
+<area shape="rect" id="node12" href="$demo_8c.html#a9870af718613f94a4f74dc59ab263b07" title="Disconnect from Helix key&#45;server. This is a blocking call &#45; its return signals orderly discontinuity ..." alt="" coords="109,360,333,387"/>
+<area shape="rect" id="node13" href="$demo_8c.html#a44e98f0537b8e9ed03e36ea382481f5b" title="Unload Helix Module. This call disables all Helix module actitivies and delete its runtime state from..." alt="" coords="148,411,295,437"/>
+<area shape="rect" id="node5" href="$demo_8c.html#afa356504f588a47b4b7a61708e9a5117" title="Internal helper method to handle account login. " alt="" coords="386,56,494,83"/>
+<area shape="rect" id="node6" href="$demo_8c.html#a64795e6cbae122b33134a04eeee25067" title="Internal helper method to handle account deletion. " alt="" coords="382,107,498,133"/>
+<area shape="rect" id="node7" href="$demo_8c.html#a083da3bd5f3a94f3216849df20532d1a" title="Internal helper method to handle account creation. " alt="" coords="382,157,498,184"/>
+</map>
